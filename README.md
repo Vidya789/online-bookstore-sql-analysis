@@ -1,4 +1,3 @@
-
 # Online Bookstore Analysis with PostgreSQL
 
 ## About this project
